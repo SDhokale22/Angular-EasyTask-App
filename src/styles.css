@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+    font-family: sans-serif;
+}
+
+body{
+    padding: 0;
+    height: 100%;
+    margin: 0;
+    background-color: #1e1d20;
+    color: #ede8f7;
+}
